@@ -2,6 +2,8 @@
 
 [Try it!](https://yukirang.shinyapps.io/bcl-08/)
 
+This is a R based data visualization app of BC Liquor products data.
+
 
 Specific Features:
 
