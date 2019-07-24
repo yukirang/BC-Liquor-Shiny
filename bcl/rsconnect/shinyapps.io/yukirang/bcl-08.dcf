@@ -1,0 +1,12 @@
+name: bcl-08
+title: bcl-08
+username:
+account: yukirang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 585825
+bundleId: 1715822
+url: https://yukirang.shinyapps.io/bcl-08/
+when: 1542935410.14491
+asMultiple: FALSE
+asStatic: FALSE
